@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjiblob
+- 👋 Hi, I’m Talha Yousaf
 - 👀 I’m interested in programming | games | manga
 - 🌱 I’m currently learning python | HTML | CSS | JS
 - 📫 How to reach me -->  [twitter] @AnjiBlob 
