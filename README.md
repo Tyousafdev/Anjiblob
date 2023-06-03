@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Talha Yousaf
-- 👀 I’m interested in programming | games | manga
-- 🌱 I’m currently learning python | HTML | CSS | JS
-- 📫 How to reach me -->  [twitter] @AnjiBlob 
+- hello I’m Talha Yousaf
+- I’m interested in programming
+- I’m currently learning JS
+
 
 <!---
 Anjiblob/Anjiblob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
